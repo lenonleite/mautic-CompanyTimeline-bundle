@@ -1,0 +1,24 @@
+{
+  "name": "lenonleite/mautic-companytimeline-bundle",
+  "description": "This plugin will create a timeline for companies at view page.",
+  "type": "mautic-plugin",
+  "license": "GPL-3.0",
+  "authors": [
+      {
+          "name": "Leuchtfeuer Digital Marketing GmbH",
+          "email": "mautic@Leuchtfeuer.com"
+      }
+  ],
+  "keywords": [
+    "mautic",
+    "plugin",
+    "integration"
+  ],
+  "extra": {
+      "install-directory-name": "LeuchtfeuerCompanyTimelineBundle",
+  },
+  "minimum-stability": "dev",
+  "require": {
+      "mautic/core-lib": "^5.0"
+  }
+}
